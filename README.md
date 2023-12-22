@@ -1,5 +1,7 @@
 # MyApp
 
+This is a Todo REST API built in Elixir and Phoenix with Guardian user authentication, PostgreSQL database and ElasticSearch database. Includes users, profiles, tasks and files that can be uploaded for each task. Everything documented in Swagger UI.
+
 To start your Phoenix server:
 
   * Run `mix setup` to install and setup dependencies
