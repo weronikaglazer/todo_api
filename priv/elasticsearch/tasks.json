@@ -1,0 +1,11 @@
+{
+    "mappings": {
+      "properties": {
+        "id": {"type": "integer"},
+        "title": { "type": "text" },
+        "description": { "type": "text" },
+        "completed": { "type": "boolean" },
+        "user_id": { "type": "integer"}
+      }
+    }
+}
